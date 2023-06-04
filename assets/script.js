@@ -57,7 +57,7 @@ function generatePassword(x,y){
         }
         console.log(crazyArray);
         var smashedPass = "";
-        for (var i=0; i<answer.length; i++){
+        for (var i=0; i<answer; i++){
             smashedPass = smashedPass + crazyArray[Math.floor(Math.random()*crazyArray.length)]; 
             console.log(smashedPass);
         }
