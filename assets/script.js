@@ -7,10 +7,10 @@ var yesLowers;
 var yesUppers;
 var yesNumerals;
 var yesSpecials;
-var crazyArray = [];
 var smashedPass = "";
 
 function generatePassword(x,y){
+    var crazyArray = [];
     var answer=(prompt("How long, in number of characters, would you like your password to be?"));
     console.log(answer);
     x=8;
