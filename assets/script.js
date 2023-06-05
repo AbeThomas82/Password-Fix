@@ -25,7 +25,7 @@ function generatePassword(x,y){
             console.log(yesLowers == true);
             var yesUppers = confirm("Would you like to use uppercase characters?");
             console.log(yesUppers == true);
-            var yesNumerals = confirm("Would you like to use numeral characters?");
+            var yesNumerals = confirm("Would you like to use numeric characters?");
             console.log(yesNumerals == true);
             var yesSpecials = confirm("Would you like to use special characters?");
             console.log(yesSpecials == true);
@@ -35,7 +35,7 @@ function generatePassword(x,y){
                 console.log(yesLowers);
                 var yesUppers = confirm("Would you like to use uppercase characters?");
                 console.log(yesUppers);
-                var yesNumerals = confirm("Would you like to use numeral characters?");
+                var yesNumerals = confirm("Would you like to use numeric characters?");
                 console.log(yesNumerals);
                 var yesSpecials = confirm("Would you like to use special characters?");    
                 console.log(yesSpecials);

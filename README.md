@@ -2,7 +2,7 @@
 
 ## Description
 
-The website that we are retooling in this exercise is essentially a password generation web application replete with CSS and JS code used to create a random combination of alphanumeric characters set to an input amount specified by the end user.
+The website that we are retooling in this exercise is essentially a password generation web application replete with CSS and JS code used to create a random combination of alphanumeric characters set to an input amount specified by the end user. The password length range is between 8 and 128 characters.
 
 The purpose of this assignment was to demonstrate the requisite CSS and JavaScript skills in coding in order to demonstrate syntax, flow, and application knowledge used in class and gained through resources in the fine-tuning of the site. Knowledge of DOM, methods, arrays, functions, variables, and loop structures were pertinent in the application of this exercise.
 
@@ -21,6 +21,23 @@ GitPages supplied deployed changes to launch refactored website.
 
 ## Usage
 The end user should be able to generate passwords formed from a combination of uppercase, lowercase, numerical, and special characters in forming the desired password for a website.
+
+## Links
+
+Repository: https://github.com/AbeThomas82/Password-Fix
+
+Deployed Site: https://abethomas82.github.io/Password-Fix/
+
+## Screenshots
+
+Initial State:
+
+![Initial state of the site.](./assets/Screenshot.png)
+
+After Generating:
+
+![After going through prompts.](./assets/Screenshot2.png)
+
 
 ## Credits
 Sherwin Abraham
